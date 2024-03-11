@@ -1,0 +1,58 @@
+body {
+  background-color: #efdac4; /* Warm white color */
+  padding-top: 30px; /* Add padding to create space for fixed navbar */
+  margin: 0;
+}
+h1 {
+  text-align: center; /* Center align the heading */
+  margin-top: 80px; /* Add margin to create space between navbar and heading */
+}
+
+.container {
+  display: flex;
+  background-color: #fff5f5;
+  flex-wrap: wrap;
+  margin: 10px; /* Set margin from all sides */
+  height: 75vh; /* Set height as 70% of viewport height */
+}
+
+.grid-box {
+  flex: 1; /* Occupy 70% of the container */
+  max-width: calc(70% - 20px); /* Set maximum width with margin */
+  margin-right: 10px; /* Add margin between grid and list */
+  /* margin-bottom: 10px ; */
+  height:  74vh;
+  overflow: auto; /* Hide overflow to prevent scrollbars on container */
+}
+
+.grid {
+  height: 100%; /* Ensure grid takes full height of grid-box */
+  overflow-y: auto; /* Add vertical scroll if content overflows */
+}
+
+.list {
+  flex: 1; /* Occupy remaining space */
+  max-width: calc(30% - 10px); /* Set maximum width with margin */
+  margin-bottom: 10px; /* Add margin from bottom */
+  margin-top: 13px ;
+}
+
+@media screen and (max-width: 800px) {
+  .grid-box {
+    flex: 1; /* Occupy full width on smaller screens */
+    max-width: 100%; /* Set full width for grid-box on smaller screens */
+    margin-right: 0; /* Remove margin between grid and list on smaller screens */
+  }
+
+  .list {
+    max-width: 100%; /* Set full width for list on smaller screens */
+  }
+}
+
+app-navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000; /* Ensure it stays above other content */
+}

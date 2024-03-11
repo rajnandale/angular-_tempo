@@ -1,0 +1,106 @@
+[
+  {
+    "category": "Home & Maintenance",
+    "professions": [
+      { "name": "Electrician", "image": "Image of Electrician in India" },
+      { "name": "Plumber", "image": "Image of Plumber in India" },
+      { "name": "Carpenter", "image": "Image of Carpenter in India" },
+      { "name": "Painter", "image": "Image of Painter in India" },
+      { "name": "Welder", "image": "Image of Welder in India" },
+      { "name": "AC Technician", "image": "Image of AC Technician in India" },
+      { "name": "Appliance Repair Technician", "image": "Image of Appliance Repair Technician in India" },
+      { "name": "Handyman", "image": "Image of Handyman in India" },
+      { "name": "Interior Designer", "image": "Image of Interior Designer in India" },
+      { "name": "Architect", "image": "Image of Architect in India" }
+    ]
+  },
+  {
+    "category": "Personal Care & Services",
+    "professions": [
+      { "name": "Hairdresser", "image": "Image of Hairdresser in India" },
+      { "name": "Beautician", "image": "Image of Beautician in India" },
+      { "name": "Tailor", "image": "Image of Tailor in India" },
+      { "name": "Laundry Service", "image": "Image of Laundry Service Worker in India" },
+      { "name": "Fitness Trainer", "image": "Image of Fitness Trainer in India" },
+      { "name": "Yoga Instructor", "image": "Image of Yoga Instructor in India" },
+      { "name": "Masseur/Masseuse", "image": "Image of Masseur in India" }
+    ]
+  },
+  {
+    "category": "Events & Entertainment",
+    "professions": [
+      { "name": "Event Planner", "image": "Image of Event Planner in India" },
+      { "name": "Caterer", "image": "Image of Caterer in India" },
+      { "name": "Photographer", "image": "Image of Photographer in India" },
+      { "name": "Videographer", "image": "Image of Videographer in India" },
+      { "name": "Musician", "image": "Image of Musician in India" },
+      { "name": "DJ", "image": "Image of DJ in India" },
+      { "name": "Decorator", "image": "Image of Decorator in India" }
+    ]
+  },
+  {
+    "category": "Other Services",
+    "professions": [
+      { "name": "Security Guard", "image": "Image of Security guard in India" },
+      { "name": "Gardener", "image": "Image of Gardener in India" },
+      { "name": "Lawyer", "image": "Image of Lawyer in India" },
+      { "name": "Doctor", "image": "Image of Doctor in India" },
+      { "name": "Teacher", "image": "Image of Teacher in India" },
+      { "name": "Accountant", "image": "Image of Accountant in India" },
+      { "name": "Web Developer", "image": "Image of Web Developer in India" },
+      { "name": "Graphic Designer", "image": "Image of Graphic Designer in India" },
+      { "name": "Content Writer", "image": "Image of Content Writer in India" },
+      { "name": "Social Media Manager", "image": "Image of Social Media Manager in India" },
+      { "name": "Marketing Specialist", "image": "Image of Marketing Specialist in India" },
+      { "name": "Translator", "image": "Image of Translator in India" }
+    ]
+  },
+  {
+    "category": "Transportation",
+    "professions": [
+      { "name": "Taxi Driver", "image": "Image of Taxi Driver in India" },
+      { "name": "Ridesharing Driver", "image": "Image of Ridesharing Driver in India" },
+      { "name": "Truck Driver", "image": "Image of Truck Driver in India" },
+      { "name": "Mechanic", "image": "Image of Mechanic in India" }
+    ]
+  },
+  {
+    "category": "Food & Beverage",
+    "professions": [
+      { "name": "Chef" },
+      { "name": "Waiter/Waitress" },
+      { "name": "Bartender" },
+      { "name": "Delivery Person" }
+    ]
+  },
+  {
+    "category": "IT & Tech",
+    "professions": [
+      { "name": "Computer Repair Technician" },
+      { "name": "Network Administrator" },
+      { "name": "Software Developer" },
+      { "name": "Data Analyst" },
+      { "name": "IT Support Specialist" }
+    ]
+  },
+  {
+    "category": "Education & Training",
+    "professions": [
+      { "name": "Teacher (various subjects)" },
+      { "name": "Tutor" },
+      { "name": "Language Instructor" },
+      { "name": "Dance Instructor" },
+      { "name": "Music Instructor" }
+    ]
+  },
+  {
+    "category": "Business & Professional",
+    "professions": [
+      { "name": "Financial Advisor" },
+      { "name": "Human Resources Specialist" },
+      { "name": "Management Consultant" },
+      { "name": "Real Estate Agent" },
+      { "name": "Insurance Agent" }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+.spacer {
+  flex: 1 1 auto;
+}
+.mat-toolbar {
+  background-color: #ffffff; /* Set background color to white */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4); /* Add bottom shadow to navbar */
+}
+
+.custom-button {
+  color: black; /* Set text color to black */
+  background-color: transparent; /* Set background color to transparent */
+  border-radius: 0; /* Set border-radius to 0 for square shape */
+  padding: 8px 16px; /* Adjust padding as needed */
+  margin-left: 10px; /* Add margin to the left of the button */
+}
+
+.custom-button:hover {
+  background-color: rgba(255, 0, 0, 0.1); /* Light red background on hover */
+}
